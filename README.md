@@ -8,3 +8,7 @@
 - Game is displayed on a 32x32 LED matrix controlled by an Arduino Mega
 
 - Also contains Player vs. Player gamemode
+
+- Full project report for Software Engineering 101 class included in repository
+
+- Created alongside Connor Byers, Nick Makharinets, and Andrew Wang
