@@ -1,10 +1,3 @@
-//
-//  minimaxV2.cpp
-//
-//
-//  Created by Andrew Wang, Nicholas Makharinets and Connor Byers on 2019-11-20.
-//
-
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
